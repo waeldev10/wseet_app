@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/wseet_app/static/css/main.a19cba26.css",
+    "main.js": "/wseet_app/static/js/main.576781ed.js",
+    "static/media/care.png": "/wseet_app/static/media/care.216f1204d34743a0a17f.png",
+    "static/media/phone.png": "/wseet_app/static/media/phone.cbd3b3f9bae21193e7a0.png",
+    "static/media/caar.webp": "/wseet_app/static/media/caar.abff6ac08b2d551420bd.webp",
+    "static/media/somar_blod.otf": "/wseet_app/static/media/somar_blod.0dbc68e097a11558a290.otf",
+    "static/media/somar_light.otf": "/wseet_app/static/media/somar_light.fcb76565928903198fba.otf",
+    "static/media/somar_medium.otf": "/wseet_app/static/media/somar_medium.a362418e3391661f710c.otf",
+    "static/media/error-404.png": "/wseet_app/static/media/error-404.dc5b2c6c0e356b268cde.png",
+    "static/media/work-in-progress.png": "/wseet_app/static/media/work-in-progress.200b5db72d4bccf6dd6b.png",
+    "static/media/car.svg": "/wseet_app/static/media/car.193be9de949cf42c22630c1604e1f7b6.svg",
+    "static/media/car_app.svg": "/wseet_app/static/media/car_app.b30cd7e158c30991f8dc2d3aee50bab8.svg",
+    "static/media/header_car.svg": "/wseet_app/static/media/header_car.8ecb8411c5199dc63502c35165ba3a30.svg",
+    "static/media/car-showroom.svg": "/wseet_app/static/media/car-showroom.6f3cf51fde01efcfeaa29db51693c675.svg",
+    "static/media/car-engineering.svg": "/wseet_app/static/media/car-engineering.938e534aefdf6adf2a81b619d2a86112.svg",
+    "static/media/car-wash.svg": "/wseet_app/static/media/car-wash.6b9d372f94a3a7bf2fb22cea4a25f215.svg",
+    "static/media/ask-for-help.svg": "/wseet_app/static/media/ask-for-help.42a8027d9c5854b5a9b2491ba9b73835.svg",
+    "static/media/vision.svg": "/wseet_app/static/media/vision.3e2b74f2ba5425d46574b96f28a9234f.svg",
+    "static/media/aim.svg": "/wseet_app/static/media/aim.631b661384681fc3809afa18fae3424c.svg",
+    "index.html": "/wseet_app/index.html",
+    "main.a19cba26.css.map": "/wseet_app/static/css/main.a19cba26.css.map",
+    "main.576781ed.js.map": "/wseet_app/static/js/main.576781ed.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a19cba26.css",
+    "static/js/main.576781ed.js"
+  ]
+}
