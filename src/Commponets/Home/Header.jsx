@@ -8,12 +8,12 @@ import Car from '../Shemmers/Car';
 
 const Header = () => {
 
-    const [loading,setLoading] = useState(false);
+    const [loading,setLoading] = useState(true);
 
     useEffect(() => {
      
             window.onload = () => {
-                setLoading(true);
+                setLoading(false);
             } 
         
     },[]);

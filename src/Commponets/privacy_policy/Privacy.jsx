@@ -7,13 +7,14 @@ import PrivaciFive from "../Shemmers/PrivaciFive";
 
 const Privacy = () => {
     
-    const [loading,setLoading] = useState(false);
+    const [loading,setLoading] = useState(true);
+
     useEffect(() => {
      
-        window.onload = () => {
-            setLoading(true);
-        } 
-    
+            window.onload = () => {
+                setLoading(false);
+            } 
+        
     },[]);
 
     return (

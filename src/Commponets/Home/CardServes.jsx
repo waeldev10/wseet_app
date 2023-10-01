@@ -4,14 +4,14 @@ import CardShemmer from "../Shemmers/CardShemmer";
 
 const CardServes = ({Title,myText,myImg,Content,myId}) =>{
 
-    const [loading,setLoading] = useState(false);
+    const [loading,setLoading] = useState(true);
 
     useEffect(() => {
      
-        window.onload = () => {
-            setLoading(true);
-        } 
-    
+            window.onload = () => {
+                setLoading(false);
+            } 
+        
     },[]);
 
     return (
